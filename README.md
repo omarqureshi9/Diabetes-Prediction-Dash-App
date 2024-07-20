@@ -4,6 +4,9 @@ This project generates a machine learning model from diabetes dataset and integr
 The Dash application uses a Decision Tree Classifier to predict binary outcomes based on user input features. 
 
 The app allows users to input various features and get predictions of whether the class is positive or negative.
+
+![App demonstration](https://github.com/user-attachments/assets/fd98d42d-836b-43e2-b1de-7ff200481113)
+
 ## Dataset
 This project used the following dataset:
 
